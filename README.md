@@ -1,6 +1,6 @@
 # b-plus-engine
 
-**b-tree-engine** is a disk-based key-value store implemented in C++ using a B+ Tree data structure. The store is designed to efficiently handle large datasets that exceed in-memory capacity by utilizing disk storage for both insertion and retrieval of data. The B+ Tree is optimized for reading and writing operations on disk-based storage systems.
+**b-plus-engine** is a disk-based key-value store implemented in C++ using a B+ Tree data structure. The store is designed to efficiently handle large datasets that exceed in-memory capacity by utilizing disk storage for both insertion and retrieval of data. The B+ Tree is optimized for reading and writing operations on disk-based storage systems.
 
 ## Features
 
