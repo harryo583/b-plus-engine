@@ -124,6 +124,23 @@
     "typeinfo": "cpp",
     "unordered_map": "cpp",
     "utility": "cpp",
-    "filesystem": "cpp"
+    "filesystem": "cpp",
+    "charconv": "cpp",
+    "codecvt": "cpp",
+    "concepts": "cpp",
+    "condition_variable": "cpp",
+    "list": "cpp",
+    "numbers": "cpp",
+    "numeric": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "semaphore": "cpp",
+    "variant": "cpp",
+    "*.tcc": "cpp",
+    "memory_resource": "cpp",
+    "format": "cpp",
+    "stop_token": "cpp",
+    "text_encoding": "cpp",
+    "thread": "cpp"
   }
 }
